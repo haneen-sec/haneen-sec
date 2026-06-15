@@ -1,4 +1,3 @@
-````md
 <!--
   GitHub Profile README for Ali Firas / thesmartshadow
   Place this file inside: https://github.com/thesmartshadow/thesmartshadow
@@ -264,4 +263,4 @@ Supply-chain behavior     ██████████████░░░░
 It is about proving the exact point where trust breaks.
 
 </div>
-```
+

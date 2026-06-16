@@ -19,7 +19,7 @@ Status: Exploring New Technologies
 💜 Interested in digital security, networking, and security awareness.
 💜 Always curious about how systems work and how they can be protected.
  
-⸻
+
  
 🏆 Certifications
 <img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Lead%20Auditor-A855F7?style=for-the-badge" />
@@ -27,7 +27,7 @@ Status: Exploring New Technologies
 📚 Currently Studying
 Hackviser Cyber Security Tracks
  
-⸻
+
  
 ⚡ Tech Stack
 <p align="center">
@@ -41,7 +41,7 @@ Interests
 🚀 Technology
 📖 Continuous Learning
  
-⸻
+
  
 📈 GitHub Analytics
 <p align="center">
@@ -52,14 +52,14 @@ Interests
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=quh12&theme=midnight-purple&hide_border=true"/>
 </p>
  
-⸻
+
  
 🌌 Visitor Counter
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=quh12&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 </p>
  
-⸻
+
  
 📫 Connect With Me
 <p align="center">
@@ -71,7 +71,7 @@ Interests
 </a>
 </p>
  
-⸻
+
  
 <div align="center">
 💜 Learning • Growing • Securing 💜

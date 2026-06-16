@@ -6,10 +6,8 @@
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Haneen+Zuhair;Cyber+Security+Student;Security+Awareness+%26+Networking;Linux+%7C+Python+%7C+GitHub;Think+Before+You+Click"
-    alt="Typing SVG"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Haneen+Zuhair;Cyber+Security+Student" />
+
 
   <br />
 

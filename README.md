@@ -10,7 +10,6 @@
 
 # 👩🏻‍💻 About Me
 
-```yaml
 Name: Haneen Zuhair
 Role: Cyber Security Student
 Location: Iraq 🇮🇶
@@ -78,4 +77,3 @@ Interests
 💜 Learning • Growing • Securing 💜
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
-:::

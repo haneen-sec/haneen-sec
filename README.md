@@ -67,7 +67,6 @@ My focus is on learning how systems work, how networks communicate, and how user
 
 ## Professional Profile
 
-```js
 const haneenZuhair = {
   name: "Haneen Zuhair",
   username: "quh12",
@@ -93,7 +92,7 @@ const haneenZuhair = {
 
   currentDirection: "Developing practical cybersecurity skills through structured learning and hands-on practice"
 };
-```
+
 
 ---
 

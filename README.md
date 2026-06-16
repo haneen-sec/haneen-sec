@@ -42,14 +42,14 @@
 
 ## Professional Summary
 
-> **Haneen Zuhair** is a **Cyber Security Student** based in **Iraq**, focused on building a strong and practical foundation in digital security.  
-> Her current learning path centers on cybersecurity fundamentals, security awareness, networking basics, Linux, Python, GitHub workflow, and beginner-friendly CTF practice.
+> **Haneen Zuhair** is a **Cyber Security** based in **Iraq**, focused on building a strong and practical foundation in digital security.  
+> Her current learning path centers on cybersecurity fundamentals, security awareness, networking basics, Linux, Python, and beginner-friendly CTF practice.
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Role-Cyber%20Security%20Student-6D28D9?style=for-the-badge" alt="Role" />
+<img src="https://img.shields.io/badge/Role-Cyber%20Security%20-6D28D9?style=for-the-badge" alt="Role" />
 <img src="https://img.shields.io/badge/Location-Iraq-4C1D95?style=for-the-badge" alt="Location" />
 <img src="https://img.shields.io/badge/Direction-Practical%20Learning-7C3AED?style=for-the-badge" alt="Direction" />
 
@@ -77,8 +77,7 @@
 ## Professional Focus
 
 ```text
-Identity        Cyber Security Student
-Username        quh12
+Identity        Cyber Security
 Location        Iraq
 Main Path       Cybersecurity fundamentals and practical learning
 Mindset         Careful thinking, continuous learning, responsible technology use

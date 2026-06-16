@@ -45,7 +45,6 @@ I am interested in security awareness, networking, Linux, Python for security le
 | Field | Details |
 |---|---|
 | **Name** | Haneen Zuhair |
-| **Username** | `quh12` |
 | **Role** | Cyber Security Student |
 | **Location** | Iraq |
 | **Main Focus** | Cybersecurity fundamentals, awareness, networking, and practical learning |
